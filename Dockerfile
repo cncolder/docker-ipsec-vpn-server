@@ -1,7 +1,6 @@
 FROM debian:jessie
-MAINTAINER Lin Song <linsongui@gmail.com>
+MAINTAINER Colder <colder@vitarn.com>
 
-ENV REFRESHED_AT 2016-10-08
 ENV SWAN_VER 3.18
 
 WORKDIR /opt/src
